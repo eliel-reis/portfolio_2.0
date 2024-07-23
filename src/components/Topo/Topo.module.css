@@ -1,0 +1,29 @@
+.header {
+    background-color: #AA978A;
+    height: 10vh;
+    display: flex;
+    justify-content: flex-end;
+    padding: 0 3%;
+    border-bottom: 3px solid #9A613C;
+}
+
+.nav {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.btn {
+    border: 2px solid #9A613C;
+    padding: 6px 20px;
+    text-decoration: none;
+    font-weight: 600;
+    letter-spacing: 3px;
+    transition-duration: 0.9s;
+}
+
+.btn:hover {
+    color: #AA978A;
+    background-color: #9A613C;
+    transition-duration: 0.9s;
+}

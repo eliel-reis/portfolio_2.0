@@ -1,0 +1,12 @@
+.footer {
+    height: 10vh;
+    background-color: #AA978A;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top: 3px solid #9A613C;
+}
+
+.footer h4 {
+    letter-spacing: 1px;
+}

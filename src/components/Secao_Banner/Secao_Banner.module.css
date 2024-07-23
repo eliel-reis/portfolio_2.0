@@ -1,0 +1,24 @@
+.container {
+    height: 90vh;
+    background-color: #AA978A;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.sub_container h1 {
+    font-size: 60px;
+    letter-spacing: 16px;
+}
+
+.sub_container h2 {
+    font-size: 30px;
+    letter-spacing: 6px;
+    margin: 40px 0;
+}
+
+.container_links {
+    display: flex;
+    gap: 10px;
+}

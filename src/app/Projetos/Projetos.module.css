@@ -1,0 +1,22 @@
+.container_cards {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    padding: 0 15px;
+}
+
+.container {
+    height: 100vh;
+    background-color: #AA978A;
+}
+
+.container h1 {
+    margin: 50px 0;
+    font-size: 30px;
+    letter-spacing: 16px;
+}
+
+.container_h1 {
+    display: flex;
+    justify-content: center;
+}

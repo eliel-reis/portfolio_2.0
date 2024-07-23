@@ -1,0 +1,36 @@
+.container {
+    height: 80vh;
+    background-color: #AA978A;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sub_container {
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+}
+
+.container_link {
+    display: flex;
+    justify-content: center;
+}
+
+.sub_container h1 {
+    font-size: 30px;
+    letter-spacing: 16px;
+    margin-bottom: 30px;
+}
+
+.container_p {
+    width: 500px;
+    font-weight: 500;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    text-align: justify;
+    letter-spacing: 1px;
+}
