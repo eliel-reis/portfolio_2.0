@@ -4,7 +4,7 @@ export default function Footer() {
     return (
         <footer className={styles.footer} >
             <h4>
-                Feito por Eliel Reis
+                Desenvolvido por Eliel Reis
             </h4>
         </footer>
     );

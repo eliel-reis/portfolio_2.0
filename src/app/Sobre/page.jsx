@@ -13,7 +13,7 @@ export default function Sobre() {
                 </section>
                 <section className={styles_sobre.container_p} >
                     <p>
-                        Meu nome é Eliel, estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor de software focado em front-end. Possuo experiência prática com tecnologias como JavaScript, CSS, HTML, React.js/Next.js, REST e Git, adquiridas através de projetos práticos e cursos educacionais.
+                        Meu nome é Eliel, desenvolvedor de software focado em front-end. Possuo experiência prática com tecnologias como JavaScript, CSS, HTML, React.js/Next.js, REST e Git.
                     </p>
                     <p>
                         Destaco-me especialmente na criação de aplicações utilizando React.js/Next.js. Busco evoluir como desenvolvedor full-stack, começando por consolidar minha expertise como front-end.

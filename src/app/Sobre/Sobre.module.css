@@ -1,9 +1,9 @@
 .container {
-    height: 80vh;
     background-color: #AA978A;
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 70px 0;
 }
 
 .sub_container {
@@ -26,7 +26,7 @@
 }
 
 .container_p {
-    width: 500px;
+    width: 400px;
     font-weight: 500;
     display: flex;
     flex-direction: column;
