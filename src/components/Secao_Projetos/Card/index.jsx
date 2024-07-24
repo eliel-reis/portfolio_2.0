@@ -1,11 +1,11 @@
 import Link from "next/link";
 import styles from "./Card.module.css";
 
-export default function Card({ titulo, sub_titulo, descricao }) {
+export default function Card({ titulo, sub_titulo, descricao, link }) {
     return (
         <section className={styles.container}>
             <section className={styles.btn} >
-                <Link className={styles.pos_btn} href="/">
+                <Link className={styles.pos_btn} href={link} target="_blank">
                     <h3>
                         {titulo}
                     </h3>

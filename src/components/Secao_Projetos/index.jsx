@@ -6,16 +6,19 @@ export default function Secao_Projetos() {
     return (
         <section className={styles.container} >
             <Card
+                link="https://site-cardapio-de-restaurante-proj-05.vercel.app/"
                 titulo={titulo_real}
                 sub_titulo="CARDÁPIO DE UM RESTAURANTE"
                 descricao="Um cardápio de um restaurante, com a possibilidade de busca por categoria, pesquisa por nome do alimento, por categoria do alimento e pela descrição do alimento."
             />
             <Card
+                link="/"
                 titulo={titulo_real}
                 sub_titulo="AGÊNCIA"
                 descricao="Projeto desenvolvido a partir do curso de HTML e CSS do Programação Web para por em prática meus estudos de HTML e CSS."
             />
             <Card
+                link="/"
                 titulo={titulo_real}
                 sub_titulo="AGÊNCIA"
                 descricao="Projeto desenvolvido a partir do curso de HTML e CSS do Programação Web para por em prática meus estudos de HTML e CSS."
