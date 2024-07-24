@@ -7,7 +7,7 @@ export default function Secao_Projetos() {
         <section className={styles.container} >
             <Card
                 titulo={titulo_real}
-                sub_titulo="AGÊNCIA"
+                sub_titulo="Eliel"
                 descricao="Projeto desenvolvido a partir do curso de HTML e CSS do Programação Web para por em prática meus estudos de HTML e CSS."
             />
             <Card
