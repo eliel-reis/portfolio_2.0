@@ -43,6 +43,7 @@
     padding: 0 10px;
     background-color: #AA978A;
     transition-duration: 1.8s;
+    width: 1000px;
 }
 
 .descricao p {
