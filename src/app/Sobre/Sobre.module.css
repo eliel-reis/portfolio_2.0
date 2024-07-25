@@ -34,3 +34,32 @@
     text-align: justify;
     letter-spacing: 1px;
 }
+
+@media (max-width: 268px) {
+    .h1 {
+        width: 100vw;
+        text-align: center;
+    }
+
+    .container_p {
+        width: 100%;
+        padding: 0 20px;
+        text-align: left;
+    }
+
+}
+
+
+@media (max-width: 765px) {
+    .h1 {
+        width: 100vw;
+        text-align: center;
+    }
+
+    .container_p {
+        width: 100%;
+        padding: 0 20px;
+        text-align: left;
+    }
+
+}

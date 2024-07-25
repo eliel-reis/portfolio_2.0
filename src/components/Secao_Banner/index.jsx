@@ -9,7 +9,7 @@ export default function Secao_Banner() {
                     ELIEL REIS
                 </h1>
                 <h2>
-                    FRONT-END DEVELOPER
+                    DESENVOLVEDOR FRONT-END
                 </h2>
                 <section className={styles_secao_banner.container_links} >
                     <Link className={styles.btn} href="https://www.linkedin.com/in/eliel-reis-978b9b224/" target="_blank" >

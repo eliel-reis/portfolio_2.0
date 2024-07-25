@@ -6,7 +6,7 @@ export default function Sobre() {
     return (
         <section className={styles_sobre.container} >
             <section className={styles_sobre.sub_container} >
-                <section>
+                <section className={styles_sobre.h1} >
                     <h1>
                         SOBRE MIM
                     </h1>
@@ -23,7 +23,7 @@ export default function Sobre() {
                     </p>
                 </section>
                 <section className={styles_sobre.container_link} >
-                    <Link href="/" className={styles.btn} >
+                    <Link href="/Currículo.pdf" className={styles.btn} target="_blank" >
                         Currículo
                     </Link>
                 </section>

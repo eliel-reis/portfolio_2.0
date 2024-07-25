@@ -68,3 +68,48 @@
     background-color: #9A613C;
     transition-duration: 0.9s;
 }
+
+
+@media (max-width: 268px) {
+    .container {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        gap: 10px;
+    }
+
+    .btn, .descricao {
+        width: 100%;
+    }
+    .btn {
+        padding: 0 5px;
+    }
+
+    .descricao {
+        text-align: left;
+        padding: 20px ;
+    }
+}
+
+
+
+@media (max-width: 765px) {
+    .container {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        gap: 10px;
+    }
+
+    .btn, .descricao {
+        width: 100%;
+    }
+    .btn {
+        padding: 0 5px;
+    }
+
+    .descricao {
+        text-align: left;
+        padding: 20px ;
+    }
+}

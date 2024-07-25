@@ -1,6 +1,26 @@
 .container {
-    height: 100vh;
+    height: 70vh;
     display: flex;
     flex-direction: column;
-    justify-content: space-around;
+}
+
+@media (max-width: 268px)  {
+    .container {
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        gap: 40px;
+        padding: 40px 20px;
+    }
+}
+
+
+@media (max-width: 765px)  {
+    .container {
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        gap: 40px;
+        padding: 40px 20px;
+    }
 }
