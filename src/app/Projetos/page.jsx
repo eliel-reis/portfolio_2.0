@@ -26,7 +26,7 @@ export default function Projetos() {
                 descricao="É um site de apresentação da sorveteria Gelateria."
             />
             <Cards
-                links="https://site-de-uma-barbearia-proj-03.vercel.app/"
+                links="https://site-de-oculos-proj-01.vercel.app/"
                 titulo={titulo_real}
                 sub_titulo="ÓTICAS VIDA"
                 descricao="É um site de apresentação da ótica Óticas Vida."
